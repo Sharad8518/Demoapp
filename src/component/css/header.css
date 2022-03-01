@@ -1,0 +1,25 @@
+
+
+.boxtxt{
+width:350px ;
+height: 300px;
+background: #fff;
+position: absolute;
+margin-top:-360px;
+margin-left: 120px;
+
+}
+
+.boxtxt h2{
+margin-left: 20px;
+margin-top: 40px;
+
+
+}
+
+.boxtxt p{
+
+color: #00a8ff;
+
+
+}

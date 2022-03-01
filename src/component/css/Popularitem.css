@@ -1,0 +1,21 @@
+.detailbx{
+
+display: inline-flex;
+
+
+}
+.detailbx .icon1{
+
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+
+}
+
+.detailbx .icon2{
+
+margin-top: 5px;
+margin-left: 100px;
+margin-right: 5px;
+
+}
